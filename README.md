@@ -1,4 +1,3 @@
-# semantic
 BITS PILANI Final dissertation GitHub Repo
 
 # Objective
@@ -42,7 +41,8 @@ Run the Streamlit app:
 streamlit run Search.py
 ```
 
-Access the app:
+Access the app:  
+
 After running the above command, a new tab should automatically open in your default web browser. If it does not, open a browser and go to the URL:
 
 ```bash
